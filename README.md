@@ -10,5 +10,5 @@
 
 ```
 
-![alt img](https://tryhackme-badges.s3.amazonaws.com/jestlandia.png?7)
+![alt img](https://tryhackme-badges.s3.amazonaws.com/jestlandia.png)
 
