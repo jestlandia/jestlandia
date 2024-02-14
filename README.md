@@ -11,4 +11,4 @@
 ```
 
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/jestlandia.png?6" alt="TryHackMe"></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/jestlandia.png?8" alt="TryHackMe"></p>
